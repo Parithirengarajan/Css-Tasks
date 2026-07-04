@@ -1,0 +1,12 @@
+#world{
+    color:rgb(255, 0, 0);
+    background-color: black;
+    font-size:50x;
+    text-transform:uppercase;
+}
+p {
+      color:rgb(255, 0, 0);
+    background-color: black;
+    font-size:20x;
+    text-transform:uppercase;
+}
